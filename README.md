@@ -2,7 +2,7 @@
 
 Официальная страница игры «Цифровой завод» — Eduard Shantaev.
 
-Симулятор производства для iPhone: примите механический цех и доведите его до цифрового завода. Без сети, без рекламы, без покупок внутри. Русский, English, español. Игра готовится к выпуску.
+Симулятор производства для iPhone: примите механический цех и доведите его до цифрового завода. Без сети, без рекламы, без покупок внутри. Русский, English, Español. Игра готовится к выпуску.
 
 Digital Plant is a factory simulator for iPhone: take over a manual machine shop and grow it into a digital plant. Offline, no ads, no in-app purchases. Russian, English, Spanish. In preparation for release.
 
